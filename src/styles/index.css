@@ -1,3 +1,72 @@
-body {
-  background-color: pink;
+@font-face {
+  font-family: "iconfont";
+  /* Project id 2868824 */
+  src: url('//at.alicdn.com/t/font_2868824_a748aid58o6.woff2?t=1634215720241') format('woff2'), url('//at.alicdn.com/t/font_2868824_a748aid58o6.woff?t=1634215720241') format('woff'), url('//at.alicdn.com/t/font_2868824_a748aid58o6.ttf?t=1634215720241') format('truetype');
+}
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.icon-dianzan:before {
+  content: "\e601";
+}
+.icon-dianzan2:before {
+  content: "\e602";
+}
+.icon-fenxiang:before {
+  content: "\e603";
+}
+.icon-gengduo:before {
+  content: "\e604";
+}
+.icon-lishi:before {
+  content: "\e605";
+}
+.icon-guanbi:before {
+  content: "\e606";
+}
+.icon-pinglun:before {
+  content: "\e607";
+}
+.icon-shanchu:before {
+  content: "\e608";
+}
+.icon-shipin:before {
+  content: "\e609";
+}
+.icon-shouji:before {
+  content: "\e60a";
+}
+.icon-shoucang:before {
+  content: "\e60b";
+}
+.icon-shouye:before {
+  content: "\e60c";
+}
+.icon-sousuo:before {
+  content: "\e60d";
+}
+.icon-wenda:before {
+  content: "\e60e";
+}
+.icon-wuwangluo:before {
+  content: "\e60f";
+}
+.icon-wode:before {
+  content: "\e610";
+}
+.icon-youjiantou:before {
+  content: "\e611";
+}
+.icon-yanzhengma:before {
+  content: "\e612";
+}
+.icon-yuedu:before {
+  content: "\e613";
+}
+.icon-zuojiantou:before {
+  content: "\e614";
 }
